@@ -1,3 +1,7 @@
 this is new file. new text
 
+<<<<<<< HEAD
 this is extra test
+=======
+asdasda
+>>>>>>> ff8b15e638c0fc035d6ba73e9d0d7918998c829d
